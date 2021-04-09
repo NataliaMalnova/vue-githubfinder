@@ -1,6 +1,6 @@
 # VUE Guthub finder
 
-[Demo](http://natalia-malnova.ru/vue-finder/)
+[Demo](http://natalia-malnova.ru/work/vue-finder/)
 
 
 ## Технологии
